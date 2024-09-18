@@ -1,0 +1,14 @@
+Part 1:
+From parchment.txt : aHR0cHM6Ly9naXRo
+
+Part 2:
+Holy spell : LnnmknnlLhrsdhk
+Light Book Code : dWIuY29tL2FtYW5ze
+Celestial Veil Amulet : CSigVmaroAn
+
+Part 3:
+Dark Book I : GNhbGlidXIvVGVyb
+Dark Book II : WluYWwtQ2hhb3MtR29kU3VpdGU=
+
+Part 4:
+Scripture.txt : aHR0cHM6Ly9naXRodWIuY29tL2FuZ3JlemljaGF0dGVyYm94L1RvLXRoZS1zdGFycy1hbmQtcmVhbG1zLXVuc2Vlbg==
