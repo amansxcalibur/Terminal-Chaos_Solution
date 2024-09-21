@@ -18,7 +18,7 @@ mkdir HandBook
 
 The HandBook folder would be updated throughout the task.
 
-## First Part of the Task
+## Part 1
 
 ```bash
 cd Terminal-Chaos
@@ -64,7 +64,7 @@ code: aHR0cHM6Ly9naXRo
 
 This completes the first part of the Task. Store the code in a text file inside the `Handbook` directory and git push.
 
-## Part 2 of the Task
+## Part 2
 
 Now to begin the part 2 of the Task, the user must checkout to the Light Realm:
 
@@ -121,13 +121,14 @@ Inside the `Celestial Veil Amulet.txt`:
 ```bash
 cat Celestial\ Veil\ Amulet.txt
 ```
-
 ```
 Forged in the celestial forges of Sigmaron, the Celestial Veil Amulet is a relic born of divine intervention to combat the malevolent forces that threaten the balance of existence. When worn, the Celestial Veil Amulet emanates a radiant glow, warding off malevolent influences and shielding the bearer from the corrupting touch of the Chaos.
 code:CSigVmaroAn
 ```
 
 Now save these both codes in the previously created text file inside the HandBook directory. This concludes Part 2.
+
+## Part 3
 
 Now the user has to go to the Dark Realm as adivised by the contents in the LightBook. Go to the `/Terminal-Chaos-User-Edition/Arrakis-dex/Eolian Caves/Entrance3/` repository from your current location and then enter the command:
 ```bash
@@ -175,6 +176,8 @@ At the end the user would have two files `DarkBookI.txt` and `DarkBookII.txt` in
 GNhbGlidXIvVGVybWluYWwtQ2hhb3MtR29kU3VpdGU=
 ```
 
+## Part 4
+
 Now the user would have to append all the codes recieved from `parchment.txt`, `LightBook.txt`, `DarkBookI.txt` and `DarkBookII.txt` and convert it to normal string using a base64 decoder. They can use an online decoder or just do it in the terminal:
 ```bash
 echo aHR0cHM6Ly9naXRodWIuY29tL2FtYW5zeGNhbGlidXIvVGVybWluYWwtQ2hhb3MtR29kU3VpdGU= | base64 --decode
@@ -183,7 +186,9 @@ Once decoded, a link to the GodSuite repository will be recieved:
 
 https://github.com/amansxcalibur/Terminal-Chaos-GodSuite
 
-Clone this repository wherever you find comfortable.
+## Part 5
+
+Clone the repository mentioned above wherever you find comfortable.
 
 ```bash
 git clone https://github.com/amansxcalibur/Terminal-Chaos-GodSuite
